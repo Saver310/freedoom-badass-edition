@@ -1,2 +1,2 @@
-# freedoom bad*ss edition
-i shit the bed
+# freedoom bad*ss edition website redirector
+redirects to the new website, that's all
